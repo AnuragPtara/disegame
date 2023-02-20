@@ -1,0 +1,30 @@
+.head{
+    text-align: center;
+        width: 70%;
+        margin: auto; 
+}
+     
+.dice{
+    text-align: center;
+    display: inline-block; 
+}
+
+body{
+   background-color: #06b17e;
+    
+ } 
+
+h1 {
+    margin: 30px;
+    font-family: 'Aclonica', cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 6rem;
+    color: #5f57a7;
+  }
+
+  
+h3 {
+    font-size: 2rem;
+    color: #5f57a7;
+    font-family: 'Gochi Hand', cursive;
+  }
